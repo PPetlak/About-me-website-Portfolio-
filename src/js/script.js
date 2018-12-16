@@ -26,7 +26,7 @@ $('.about-me').waypoint(function(dir) {
 }, {offset: 50});
 $('.about-me').waypoint(function(dir) {
   $('.facts-img').removeClass('invisible').addClass('animated slideInRight');
-}, {offset: -250});
+}, {offset: -350});
 $('.my-tools').waypoint(function(dir) {
   $('.tool').removeClass('invisible').addClass('animated zoomIn');
 }, {offset: 50});
